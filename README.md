@@ -3,7 +3,7 @@
 
 //Open in VsCode
 
-//Open project in Terminal
+//Open Terminal
 
 //Run "npm install"->To install the node modules
 
